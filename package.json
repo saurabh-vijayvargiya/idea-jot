@@ -20,5 +20,8 @@
   "bugs": {
     "url": "https://github.com/saurabh-vijayvargiya/idea-jot/issues"
   },
-  "homepage": "https://github.com/saurabh-vijayvargiya/idea-jot#readme"
+  "homepage": "https://github.com/saurabh-vijayvargiya/idea-jot#readme",
+  "dependencies": {
+    "express": "^4.16.4"
+  }
 }
