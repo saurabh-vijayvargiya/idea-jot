@@ -1,0 +1,24 @@
+{
+  "name": "idea-jot",
+  "version": "1.0.0",
+  "description": "Use this app to jot down any idea you get for your new app, blog, vlog and anything in the world.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/saurabh-vijayvargiya/idea-jot.git"
+  },
+  "keywords": [
+    "Idea",
+    "nodejs",
+    "express"
+  ],
+  "author": "Saurabh Vijayvargiya",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/saurabh-vijayvargiya/idea-jot/issues"
+  },
+  "homepage": "https://github.com/saurabh-vijayvargiya/idea-jot#readme"
+}
